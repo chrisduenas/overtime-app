@@ -19,3 +19,4 @@ x AdminUser -> STI
 
 ## Refactor TODOs
 - Refactor user association integration test in post_spec
+- add full name method for users
