@@ -4,8 +4,8 @@
 
 ## Models
 - Post -> date:date rationale:text
-x User -> Devise
-x AdminUser -> STI
+- x User -> Devise
+- x AdminUser -> STI
 
 ## Features:
 - Approval Workflow
@@ -15,7 +15,7 @@ x AdminUser -> STI
 - Needs to be documented if employee did not log overtime
 
 ## UI: 
-- Bootstrap -> formatting
+- x Bootstrap -> formatting
 
 ## Refactor TODOs
 - Refactor user association integration test in post_spec
