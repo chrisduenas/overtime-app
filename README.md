@@ -27,6 +27,7 @@
 
 ## Refactor TODOs
 - Refactor user association integration test in post_spec
+- Refactor posts/_form for admin user with status
 
 ## Approval Workflow TODOs
 - status to post (database migration)
