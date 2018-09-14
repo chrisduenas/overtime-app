@@ -9,6 +9,11 @@
 
 ## Features:
 - Approval Workflow
+    - User enters a post
+    - Admin User reviews post
+    - Approve/ Reject Post
+    - Lock records after approval
+    - Sent back to user if rejected
 - SMS Sending -> link to approval or overtime input
 - x Administrate admin dashboard
 - x Block non admin and guest users
@@ -22,3 +27,10 @@
 
 ## Refactor TODOs
 - Refactor user association integration test in post_spec
+
+## Approval Workflow TODOs
+- status to post (database migration)
+- status needs to be required
+- status to have a default value
+- implement approval stages
+- locking 
