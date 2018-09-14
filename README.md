@@ -3,7 +3,7 @@
 ## Key requirement: company needs documentation that salaried employees did or did not get overtime each week
 
 ## Models
-- Post -> date:date rationale:text
+- x Post -> date:date rationale:text
 - x User -> Devise
 - x AdminUser -> STI
 
@@ -16,6 +16,8 @@
 
 ## UI: 
 - x Bootstrap -> formatting
+- Icons from Font Awesome
+- Update the styles for forms
 
 ## Refactor TODOs
 - Refactor user association integration test in post_spec
