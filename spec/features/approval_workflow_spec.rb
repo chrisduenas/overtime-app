@@ -8,8 +8,8 @@ describe 'navigate' do
 
     describe 'edit' do
         before do
-        @post = FactoryBot.create(:post)
-        visit edit_post_path(@post)
+            @post = FactoryBot.create(:post)
+            visit edit_post_path(@post)
         end
 
         it 'has a status that can be edited on the form by an admin' do
