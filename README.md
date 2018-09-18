@@ -26,9 +26,11 @@
 - x Icons from Glyphicons
 - x Update the styles for forms
 
-## Refactor TODOs
-- x Refactor posts/_form for admin user with status
-
+## TODOs
+- Integrate Validation for phone attribute in User:
+    # No spaces or dashes
+    # exactly 10 characters
+    # all characters have to be a number
 
 ## Approval Workflow TODOs
 - status to post (database migration)
