@@ -10,11 +10,6 @@
 
 ## Features:
 - Approval Workflow
-    - User enters a post
-    - Admin User reviews post
-    - Approve/ Reject Post
-    - Lock records after approval
-    - Sent back to user if rejected
 - SMS Sending -> link to approval or overtime input
 - x Administrate admin dashboard
 - x Block non admin and guest users
@@ -25,12 +20,6 @@
 - x Bootstrap -> formatting
 - x Icons from Glyphicons
 - x Update the styles for forms
-
-## TODOs
-- Integrate Validation for phone attribute in User:
-    # No spaces or dashes
-    # exactly 10 characters
-    # all characters have to be a number
 
 ## Approval Workflow TODOs
 - status to post (database migration)
