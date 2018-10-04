@@ -28,4 +28,6 @@
     </tbody>
 </table>
 
-<%= paginate @posts %>
+<div id="posts">
+  <%= paginate @posts, remote: true %>
+</div>
