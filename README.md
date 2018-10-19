@@ -23,7 +23,7 @@ q
 - x Update button sort order on employee page
 - x Remove unnecessary buttons for managers (Audit log & Request Overtime)
 - x Fix admin dashboard bug *administrate
-- Implement honeybadger for error reporting
+- Implement rollbar for error reporting
 - Implement new relic for keeping site alive
 
 
