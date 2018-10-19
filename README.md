@@ -7,7 +7,7 @@
 - x User -> Devise
 - x AdminUser -> STI
 - x AuditLog
-
+q
 ## Features:
 - x Approval Workflow
 - x SMS Sending -> link to approval or overtime input -> integrate     with Heroku scheduler
@@ -21,7 +21,7 @@
 - x Update buttons on employee homepage so they show on mobile
 - x Update buttons to include timespan
 - x Update button sort order on employee page
-- Remove unnecessary buttons for managers (Audit log & Request Overtime)
+- x Remove unnecessary buttons for managers (Audit log & Request Overtime)
 - Fix admin dashboard bug *administrate
 - Implement honeybadger for error reporting
 - Implement new relic for keeping site alive
