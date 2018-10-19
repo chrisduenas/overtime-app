@@ -22,10 +22,10 @@ q
 - x Update buttons to include timespan
 - x Update button sort order on employee page
 - x Remove unnecessary buttons for managers (Audit log & Request Overtime)
-- Fix admin dashboard bug *administrate
+- x Fix admin dashboard bug *administrate
 - Implement honeybadger for error reporting
 - Implement new relic for keeping site alive
-- Check on data issue and verify correct hours are being tracked
+
 
 
 
