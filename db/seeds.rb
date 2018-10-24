@@ -3,7 +3,9 @@
                     password_confirmation: "asdfasdf", 
                     first_name: "Jon", 
                     last_name: "Snow",
-                    phone: "9412147853")
+                    phone: "9412147853",
+                    ssn: 1234,
+                    company: "ABC Company")
                     #Change to valid phone number to receive text messages 
 
 puts "1 User created"
@@ -13,7 +15,9 @@ AdminUser.create(email: "admin@test.com",
                  password_confirmation: "asdfasdf", 
                  first_name: "Admin", 
                  last_name: "User",
-                 phone: "9412147853")
+                 phone: "9412147853",
+                 ssn: 1234,
+                 company: "ABC Company")
                 #Change to valid phone number to receive text messages 
 
 
